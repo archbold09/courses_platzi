@@ -1,0 +1,20 @@
+{
+  "name": "JS-Closures-y-Scope",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archbold09/JS-Closures-y-Scope.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archbold09/JS-Closures-y-Scope/issues"
+  },
+  "homepage": "https://github.com/archbold09/JS-Closures-y-Scope#readme"
+}

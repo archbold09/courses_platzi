@@ -1,0 +1,24 @@
+{
+  "name": "Asincronismo-con-JavaScript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "nodemon src/callbacks/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archbold09/Asincronismo-con-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archbold09/Asincronismo-con-JavaScript/issues"
+  },
+  "homepage": "https://github.com/archbold09/Asincronismo-con-JavaScript#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
